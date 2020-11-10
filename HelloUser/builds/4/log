@@ -1,0 +1,12 @@
+Started by user [8mha:////4ADmoYry8Cl/1iDA9vaUaP0N/IJ200Dx9E5t7X8lDaVeAAAAkx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CIwAQDYegtJvwAAAA==[0muser
+Running as SYSTEM
+Building on master in workspace C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\HelloUser
+[Checks API] No suitable checks publisher found.
+[HelloUser] $ cmd /c call C:\WINDOWS\TEMP\jenkins11762860360075889294.bat
+
+C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\HelloUser>ECHO Hello, Dmitry! 
+Hello, Dmitry!
+
+C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\HelloUser>exit 0 
+[Checks API] No suitable checks publisher found.
+Finished: SUCCESS

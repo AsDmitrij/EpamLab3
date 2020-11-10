@@ -1,0 +1,12 @@
+Started by user [8mha:////4HDGNop5mGfOJQhpdzVh5QLy7kVohw7zQNzjm7NT8dK1AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZ+/dLi1CL9xOKU3EygEVkAVDAOysQAAAA=[0mDmitry Asonov 
+Running as SYSTEM
+Building in workspace C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\Param job
+[Checks API] No suitable checks publisher found.
+[Param job] $ cmd /c call C:\WINDOWS\TEMP\jenkins10697557938021232110.bat
+
+C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\Param job>ECHO dev 
+dev
+
+C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\Param job>exit 0 
+[Checks API] No suitable checks publisher found.
+Finished: SUCCESS
