@@ -1,9 +1,4 @@
 ﻿namespace Aircompany.Models
 {
-    public enum MilitaryType
-    {
-        FIGHTER,
-        BOMBER,
-        TRANSPORT
-    }
+    public enum MilitaryType { FIGHTER, BOMBER, TRANSPORT }
 }
